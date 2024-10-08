@@ -19,8 +19,11 @@
         <mxCell id="yFsxWnC4twTi9RpUh4xe-5" value="Data Scheduler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yFsxWnC4twTi9RpUh4xe-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="370" width="70" height="40" as="geometry" />
+        <mxCell id="yFsxWnC4twTi9RpUh4xe-6" value="FIFO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="370" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yFsxWnC4twTi9RpUh4xe-7" value="Encoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
